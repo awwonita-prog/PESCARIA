@@ -1,0 +1,11 @@
+{
+  "FolderOrderSettings":[
+    {"name":"effects","order":1,"path":"folders/effects.yy",},
+    {"name":"transition","order":2,"path":"folders/transition.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"Obj_Camera","order":2,"path":"objects/Obj_Camera/Obj_Camera.yy",},
+    {"name":"Obj_Next_Room","order":1,"path":"objects/Obj_Next_Room/Obj_Next_Room.yy",},
+    {"name":"Spr_Fishing_Rod","order":1,"path":"sprites/Spr_Fishing_Rod/Spr_Fishing_Rod.yy",},
+  ],
+}
